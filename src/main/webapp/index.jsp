@@ -18,5 +18,7 @@
 	<a href="scripting/scriplet/form.jsp"><h3>Scriplet Tag example</h3></a>
 	<hr>
 	<a href="scripting/expression/form.jsp"><h3>Expression Tag example</h3></a>
+	<hr>
+	<a href="scripting/declaration/form.jsp"><h3>Declaration Tag example (cube of number)</h3></a>
 </body>
 </html>
