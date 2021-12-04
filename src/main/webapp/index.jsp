@@ -30,5 +30,7 @@
 	<a href="objects/request/form.jsp"><h3>Request Example</h3></a>
 	<hr>
 	<a href="objects/response/search.jsp"><h3>Response Example (redirect to google)</h3></a>
+	<hr>
+	<a href="objects/config/form.jsp"><h3>Config Example</h3></a>
 </body>
 </html>
