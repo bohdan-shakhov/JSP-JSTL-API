@@ -25,6 +25,10 @@
 		<h2>JSP Implicit Objects</h2>
 	</div>
 	<hr>
-	<a href="objects/writer/print.jsp"></a>
+	<a href="objects/writer/print.jsp"><h3>JspWriter Example</h3></a>
+	<hr>
+	<a href="objects/request/form.jsp"><h3>Request Example</h3></a>
+	<hr>
+	<a href="objects/response/search.jsp"><h3>Response Example (redirect to google)</h3></a>
 </body>
 </html>
