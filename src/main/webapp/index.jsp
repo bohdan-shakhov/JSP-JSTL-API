@@ -20,5 +20,11 @@
 	<a href="scripting/expression/form.jsp"><h3>Expression Tag example</h3></a>
 	<hr>
 	<a href="scripting/declaration/form.jsp"><h3>Declaration Tag example (cube of number)</h3></a>
+	<hr>
+	<div style="text-align: center;">
+		<h2>JSP Implicit Objects</h2>
+	</div>
+	<hr>
+	<a href="objects/writer/print.jsp"></a>
 </body>
 </html>
