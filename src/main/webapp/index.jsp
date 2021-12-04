@@ -15,8 +15,8 @@
 		<h2>JSP Scripting Elements</h2>
     </div>
 	<hr>
-	<a href="scripting/scriplet/form.jsp"><h3>Scriplet example</h3></a>
+	<a href="scripting/scriplet/form.jsp"><h3>Scriplet Tag example</h3></a>
 	<hr>
-
+	<a href="scripting/expression/form.jsp"><h3>Expression Tag example</h3></a>
 </body>
 </html>
