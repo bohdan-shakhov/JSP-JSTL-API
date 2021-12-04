@@ -3,6 +3,11 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
+    <context-param>
+        <param-name>contextparam</param-name>
+        <param-value>context parameter value</param-value>
+    </context-param>
+
     <servlet>
         <servlet-name>config-servlet</servlet-name>
         <jsp-file>/objects/config/welcome.jsp</jsp-file>
