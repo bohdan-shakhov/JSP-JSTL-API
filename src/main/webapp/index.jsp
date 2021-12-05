@@ -41,6 +41,8 @@
 		<h2>Exception Handling in JSP example</h2>
 	</div>
 	<hr>
-	<a href="exception/welcome.jsp"><h3>Example of exception handling in jsp by the elements of page directive</h3></a>
+	<a href="exception/directive/welcome.jsp"><h3>Example of exception handling in jsp by the elements of page directive</h3></a>
+	<hr>
+	<a href="exception/descriptor/welcome.jsp"><h3>Example of exception handling in jsp by specifying the error-page element in web.xml file</h3></a>
 </body>
 </html>

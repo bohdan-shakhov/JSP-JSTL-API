@@ -8,6 +8,11 @@
         <param-value>context parameter value</param-value>
     </context-param>
 
+    <error-page>
+        <exception-type>java.lang.Exception</exception-type>
+        <location>/exception/descriptor/error.jsp</location>
+    </error-page>
+
     <servlet>
         <servlet-name>config-servlet</servlet-name>
         <jsp-file>/objects/config/welcome.jsp</jsp-file>

@@ -17,7 +17,7 @@
 		<h3>You cannot divide by zero</h3>
 		Exception is: <%= exception%> <br>
 		<a href="welcome.jsp">Start page</a> |
-		<a href="../index.jsp">Main page</a>
+		<a href="../../index.jsp">Main page</a>
 	</div>
 </body>
 </html>
