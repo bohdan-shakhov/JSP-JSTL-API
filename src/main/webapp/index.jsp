@@ -11,7 +11,12 @@
 	<title>JSP/JSTL API</title>
 </head>
 <body>
-    <div style="text-align: center;">
+	<div style="text-align: center;">
+		<h2>MVC Example</h2>
+	</div>
+	<hr>
+	<a href="mvc/welcome.jsp"><h3>MVC Application Example</h3></a>
+	<hr>    <div style="text-align: center;">
 		<h2>JSP Scripting Elements</h2>
     </div>
 	<hr>
