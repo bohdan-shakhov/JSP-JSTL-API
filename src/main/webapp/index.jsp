@@ -44,5 +44,11 @@
 	<a href="exception/directive/welcome.jsp"><h3>Example of exception handling in jsp by the elements of page directive</h3></a>
 	<hr>
 	<a href="exception/descriptor/welcome.jsp"><h3>Example of exception handling in jsp by specifying the error-page element in web.xml file</h3></a>
+	<hr>
+	<div style="text-align: center;">
+		<h2>JSP Action Tag</h2>
+	</div>
+	<hr>
+	<a href="action/forward/welcome.jsp"><h3>Example of jsp:forward action tag with parameter</h3></a>
 </body>
 </html>
