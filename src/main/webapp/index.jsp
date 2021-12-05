@@ -54,5 +54,7 @@
 	<a href="action/include/welcome.jsp"><h3>Example of jsp:include action tag</h3></a>
 	<hr>
 	<a href="action/usebean/calculate.jsp"><h3>Example of jsp:useBean action tag</h3></a>
+	<hr>
+	<a href="action/property/welcome.jsp"><h3>Example of jsp:setProperty/getProperty action tag</h3></a>
 </body>
 </html>
