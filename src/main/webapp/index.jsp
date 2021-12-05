@@ -50,5 +50,7 @@
 	</div>
 	<hr>
 	<a href="action/forward/welcome.jsp"><h3>Example of jsp:forward action tag with parameter</h3></a>
+	<hr>
+	<a href="action/include/welcome.jsp"><h3>Example of jsp:include action tag</h3></a>
 </body>
 </html>
