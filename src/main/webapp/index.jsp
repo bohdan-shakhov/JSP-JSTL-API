@@ -56,5 +56,10 @@
 	<a href="action/usebean/calculate.jsp"><h3>Example of jsp:useBean action tag</h3></a>
 	<hr>
 	<a href="action/property/welcome.jsp"><h3>Example of jsp:setProperty/getProperty action tag</h3></a>
+	<hr>
+	<div style="text-align: center;">
+		<h2>JSP Expression Language</h2>
+	</div>
+	<a href="expression/welcome.jsp"><h3>EL parameters (param, sessionScope, cookie)</h3></a>
 </body>
 </html>
