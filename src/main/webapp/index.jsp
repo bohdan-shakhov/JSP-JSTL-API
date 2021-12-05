@@ -36,5 +36,11 @@
 	<a href="objects/application/form.jsp"><h3>Application Example</h3></a>
 	<hr>
 	<a href="objects/session/form.jsp"><h3>Session Example</h3></a>
+	<hr>
+	<div style="text-align: center;">
+		<h2>Exception Handling in JSP example</h2>
+	</div>
+	<hr>
+	<a href="exception/welcome.jsp"><h3>Exception</h3></a>
 </body>
 </html>
