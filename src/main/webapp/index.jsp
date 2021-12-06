@@ -72,5 +72,11 @@
 	</div>
 	<hr>
 	<a href="customtag/show.jsp"><h3>Custom Tag which print current date and time</h3></a>
+	<hr>
+	<div style="text-align: center;">
+		<h1>JSTL</h1>
+	</div>
+	<hr>
+	<a href="jstl/core/coretags.jsp"><h3>Core tags</h3></a>
 </body>
 </html>
