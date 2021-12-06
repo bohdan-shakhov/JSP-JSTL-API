@@ -66,5 +66,11 @@
 		<h2>JSP Expression Language</h2>
 	</div>
 	<a href="expression/welcome.jsp"><h3>EL parameters (param, sessionScope, cookie)</h3></a>
+	<hr>
+	<div style="text-align: center;">
+		<h2>Custom Tag</h2>
+	</div>
+	<hr>
+	<a href="customtag/show.jsp"><h3>Custom Tag which print current date and time</h3></a>
 </body>
 </html>
